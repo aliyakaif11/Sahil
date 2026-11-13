@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 650" fill="none">
+  <g stroke="#9e8460" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" opacity=".71">
+    <path d="M-9 601C98 565 77 505 50 455S-15 335 100 261 167 163 138 90 148 24 194-9"/>
+    <path d="M-6 400c106-25 134-63 151-115M75 516c58-43 97-29 133-5M75 302c-3-83-29-95-20-163M138 130c64 18 98 4 141-39M47 447c79 17 122-7 154-37"/>
+  </g>
+  <g fill="#a28a63" opacity=".31">
+    <ellipse cx="41" cy="550" rx="12" ry="29" transform="rotate(-62 41 550)"/><ellipse cx="87" cy="508" rx="11" ry="32" transform="rotate(24 87 508)"/>
+    <ellipse cx="109" cy="488" rx="11" ry="32" transform="rotate(-38 109 488)"/><ellipse cx="32" cy="415" rx="10" ry="24" transform="rotate(-70 32 415)"/>
+    <ellipse cx="79" cy="386" rx="11" ry="30" transform="rotate(36 79 386)"/><ellipse cx="125" cy="318" rx="11" ry="30" transform="rotate(-49 125 318)"/>
+    <ellipse cx="47" cy="306" rx="10" ry="29" transform="rotate(-40 47 306)"/><ellipse cx="57" cy="265" rx="12" ry="31" transform="rotate(32 57 265)"/>
+    <ellipse cx="107" cy="245" rx="12" ry="31" transform="rotate(-47 107 245)"/><ellipse cx="153" cy="194" rx="10" ry="28" transform="rotate(45 153 194)"/>
+    <ellipse cx="145" cy="142" rx="13" ry="34" transform="rotate(-37 145 142)"/><ellipse cx="105" cy="88" rx="11" ry="30" transform="rotate(-40 105 88)"/>
+    <ellipse cx="185" cy="70" rx="13" ry="30" transform="rotate(45 185 70)"/><ellipse cx="215" cy="104" rx="11" ry="30" transform="rotate(65 215 104)"/>
+    <ellipse cx="217" cy="494" rx="9" ry="25" transform="rotate(-60 217 494)"/><ellipse cx="183" cy="517" rx="11" ry="27" transform="rotate(25 183 517)"/>
+    <ellipse cx="210" cy="405" rx="11" ry="24" transform="rotate(-53 210 405)"/><ellipse cx="164" cy="429" rx="10" ry="24" transform="rotate(30 164 429)"/>
+    <ellipse cx="58" cy="153" rx="9" ry="26" transform="rotate(40 58 153)"/><ellipse cx="58" cy="193" rx="10" ry="26" transform="rotate(-49 58 193)"/>
+  </g>
+  <g fill="#c1a678" opacity=".69"><circle cx="108" cy="252" r="3"/><circle cx="160" cy="181" r="3"/><circle cx="194" cy="67" r="4"/><circle cx="161" cy="522" r="4"/><circle cx="44" cy="467" r="3"/></g>
+</svg>
